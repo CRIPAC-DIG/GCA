@@ -1,0 +1,12 @@
+{
+    "learning_rate": 0.01,
+    "num_hidden": 128,
+    "num_proj_hidden": 64,
+    "activation": "rrelu",
+    "drop_edge_rate_1": 0.4,
+    "drop_edge_rate_2": 0.1,
+    "drop_feature_rate_1": 0.1,
+    "drop_feature_rate_2": 0.4,
+    "tau": 0.5,
+    "num_epochs": 1500
+}
